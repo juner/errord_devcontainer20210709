@@ -202,3 +202,7 @@ UnicodeEncodeError: 'cp932' codec can't encode character '\U0001f31f' in positio
 ```
 
 </details>
+
+## issues
+
+* [`UnicodeEncodeError: 'cp932' codec can't encode character '\U0001f31f' in position 259: illegal multibyte sequence` occurs after v0.184.0. #5308](https://github.com/microsoft/vscode-remote-release/issues/5308)
